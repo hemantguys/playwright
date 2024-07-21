@@ -10,6 +10,7 @@ public class abc {
             BrowserContext context = browser.newContext(contextOptions);
             // Open a new page
             Page page = context.newPage();
+            System.out.println("Hemant");
             // Navigate to a website
             page.navigate("https://www.google.com");
             // Take a screenshot
