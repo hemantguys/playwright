@@ -11,7 +11,7 @@ public class abc {
             // Open a new page
             Page page = context.newPage();
             System.out.println("Hemant");
-            System.out.println("kk");
+            System.out.println("jk");
             // Navigate to a website
             page.navigate("https://www.google.com");
             // Take a screenshot
